@@ -1,0 +1,44 @@
+#header-textbox-3 .bg-wrap {
+    background-color: #111;
+}
+
+#header-textbox-3 .bg {
+    background-image: url('../images/uploaded/2774/2774-websmith__oktoberfest-food-sausage-beer-and-bretzel-2022-02-08-22-39-27-utc.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.75;
+}#benefits-3col-3 .bg-wrap {
+    background: rgba(25, 171, 20, 0.5);
+}
+
+#benefits-3col-3 .bg {
+	opacity: 0.15;
+	background-size: cover;
+	background-position: center center;
+	background-image: url('../images/uploaded/2774/2774-websmith__spices-and-herbs-on-old-kitchen-table-food-and-cu-2022-02-28-16-59-38-utc.jpg');
+}
+#action-img-text-btn-2 .bg-wrap {
+	background: radial-gradient(circle, #dd2e44 30%, rgba(0, 0, 0, 0) 70%);
+}#price-3col .bg-wrap {
+    background: #dd2e44;
+}
+
+#price-3col .bg {
+	opacity: 0.3;
+	background-position: center center;
+	background-size: cover;
+	background-image: url('../images/uploaded/2774/2774-websmith__food-2022-01-19-00-11-56-utc.jpg');
+}#action-btn-text .bg-wrap {
+    background: #000000;
+}
+
+#action-btn-text .bg {
+	opacity: 0.48;
+	background-size: cover;
+	background-position: center bottom;
+	background-image: url('../images/uploaded/2774/2774-websmith__salad-with-vegetables-on-plate-diet-food-2022-03-30-00-22-31-utc.jpg');
+}
+#contact-form-map .bg-wrap {
+	background: #19ab14;
+}
