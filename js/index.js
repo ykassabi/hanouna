@@ -68,7 +68,7 @@ function initialize_contact_form_map_map() {
         name: 'Custom Style'
     };
 
-    var customMapType = new google.maps.StyledMapType(monoOpts, styledMapOptions);
+    var customMapType = new google.maps.StyledMapType(dreamOpts, styledMapOptions);
 
     map.mapTypes.set(MY_MAPTYPE_ID, customMapType);
 
@@ -176,6 +176,7 @@ $('#contact-form-map-form').submit(function () {
     }
     return false;
 });
+
 
 
 });
