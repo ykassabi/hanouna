@@ -91,6 +91,11 @@ window.addEventListener('load', function() {
 
 
 
+
+
+
+
+
 //------------------------------------------------------------------------------------
 //						CONTACT FORM VALIDATION'S SETTINGS
 //------------------------------------------------------------------------------------
@@ -176,6 +181,8 @@ $('#contact-form-map-form').submit(function () {
     }
     return false;
 });
+
+
 
 
 
