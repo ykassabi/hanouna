@@ -56,21 +56,12 @@
 }#gallery-3col-5 .bg-wrap {
     background: #ffffff;
 }
-
-#contact-form-map .bg-wrap {
-	background: #19ab14;
-}#cookie-text .bg-wrap {
-    background-color: rgba (0,0,0,0.9);
-}#sep-top-7 .bg-wrap {
-    background-color: rgba(255, 255, 255, 0);
-}
-
-#sep-top-7 .bg {
-    background-image: url('../images/bg-fog-top.png');
-    background-repeat: repeat-x;
-    background-position: center top;
-    background-size: auto 100px;
-}
 #sep-center-5 .bg-wrap {
     background-color: rgba(255, 255, 255, 0);
+}#clients-5col-2 .bg {
+    background-image: url('../images/bg-67.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.05;
 }
